@@ -1,0 +1,3 @@
+## kodi_advancedsettings
+
+Detail coming soon...
